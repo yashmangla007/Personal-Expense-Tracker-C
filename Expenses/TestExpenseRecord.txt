@@ -1,0 +1,9 @@
+1 20251201 Food 15.50 Lunch at McDonalds
+2 20251202 Transport 5.00 Bus fare to office
+3 20251205 Food 45.00 Dinner with friends
+4 20251210 Bills 120.00 Monthly internet bill
+5 20251215 Entertainment 30.00 Movie tickets
+6 20251220 Food 12.00 Grocery snacks
+7 20251225 Gifts 100.00 Christmas present for mom
+8 20251226 Transport 25.00 Uber to airport9 20251226 EMI 5000.000000 Car EMI
+9 20251226 EMI 5000.000000 Car EMI

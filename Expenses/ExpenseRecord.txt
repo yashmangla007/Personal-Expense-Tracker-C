@@ -1,0 +1,14 @@
+1 20251201 Food 15.500000 Lunch at McDonalds
+3 20251205 Food 45.000000 Dinner with friends
+4 20251210 Bills 120.000000 Monthly internet bill
+5 20251215 Entertainment 30.000000 Movie tickets
+6 20251220 Food 12.000000 Grocery snacks
+7 20251225 Gifts 100.000000 Christmas present for mom
+8 20251226 Transport 25.000000 Uber to airport9 20251226 EMI 5000.000000 Car EMI
+9 20251226 EMI 5000.000000 Car EMI
+10 20251227 Food 240.000000 Lunch - I was Hungry!!
+11 20251229 Medical 600.000000 Back Injury Consultation
+12 20251230 Gifts 1600.000000 New Year Gift for Friends
+13 20260107 Food 2500.000000 Lunch at McDonalds
+14 20260122 Transport 50.000000 College to Bus Stand
+
