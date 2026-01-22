@@ -2,10 +2,10 @@
 
 A robust, console-based financial management system developed in C. This project demonstrates low-level file handling, database management concepts, and modular programming logic.
 
-## Key Highlights & "Wow" Features
+## Key Highlights and Features of Project
 
 ### 1. **Dual-Redundancy Data Backup**
-   - Unlike standard student projects that write to a single file, this system implements a **Real-time Backup Mechanism**.
+   - Unlike standard projects that write to a single file, this system implements a **Real-time Backup Mechanism**.
    - Every transaction is simultaneously written to both `ExpenseRecord.txt` and `Backup-ExpenseRecord.txt`, ensuring data persistence even if the main file gets corrupted.
 
 ### 2. **Custom Database Logic (CRUD)**
